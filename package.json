@@ -1,0 +1,15 @@
+{
+  "name": "pistarnew",
+  "version": "1.0.0",
+  "description": "pistarTool server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breno Rios",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^5.10.0",
+    "fs": "0.0.1-security"
+  }
+}
